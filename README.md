@@ -1,7 +1,14 @@
-# 👋 Привет! Я Влад
+<div style="position: relative; width: 100%; min-height: 100vh; margin: 0; padding: 0;">
+  <!-- Фоновое изображение (твоё аниме под звёздами) -->
+  <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-image: url('https://tse4.mm.bing.net/th/id/OIP.AnSyfi5i9r-05JbmbXijkwHaNK?rs=1&pid=ImgDetMain&o=7&rm=3'); background-size: cover; background-position: center; background-attachment: fixed; z-index: -2;"></div>
+  
+  <!-- Затемнение фона для читаемости текста -->
+  <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.6); z-index: -1;"></div>
+  
+  <!-- Контент сверху фона -->
+  <div style="position: relative; z-index: 1; padding: 20px; color: white; text-align: center;">
 
-![Header Image](https://i.pinimg.com/originals/f2/0f/98/f20f98396c7472cd03fdccdcdd8b319f.gif)  
-<img src="https://i.pinimg.com/originals/f2/0f/98/f20f98396c7472cd03fdccdcdd8b319f.gif" alt="Описание" style="border-radius: 20px; width: 300px; height: auto;">
+# 👋 Привет! Я Влад
 
 🌟 **Студент колледжа IT Top / Начинающий разработчик / Энтузиаст IT**  
 📍 Из Симферополя
@@ -21,3 +28,6 @@
 Ненавижу молоко 🥛
 
 Спасибо, что заглянули! ⭐ Star мои репозитории, если понравилось!
+
+  </div>
+</div>
