@@ -1,8 +1,11 @@
-<!-- Анимированный баннер сверху (твой фиолетовый вихрь с сакурой) -->
-<img src="https://i.pinimg.com/originals/f2/0f/98/f20f98396c7472cd03fdccdcdd8b319f.gif" alt="Banner" style="width: 100%; max-height: 500px; object-fit: cover; border-radius: 0 0 20px 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
+<!-- Анимированный баннер сверху (фиолетовый вихрь с сакурой) -->
+<img src="https://i.pinimg.com/originals/f2/0f/98/f20f98396c7472cd03fdccdcdd8b319f.gif" alt="Banner" style="width: 100%; max-height: 500px; object-fit: cover; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.8);">
 
-<!-- Тёмный полупрозрачный оверлей для всего контента -->
-<div style="background: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(10,5,30,0.9)); padding: 40px 20px; min-height: 100vh; color: white; text-align: center; border-radius: 20px; margin-top: -50px;">
+<!-- Большое фоновое изображение (аниме-девушка под звёздами) как "параллакс" слой -->
+<img src="https://tse4.mm.bing.net/th/id/OIP.AnSyfi5i9r-05JbmbXijkwHaNK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Background" style="width: 100%; opacity: 0.5; margin-top: -100px; margin-bottom: -100px;">
+
+<!-- Тёмный оверлей с градиентом для читаемости + весь твой текст -->
+<div style="background: linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(10,5,30,0.95)); padding: 50px 20px; min-height: 80vh; color: white; text-align: center; border-radius: 20px; margin-top: -200px;">
 
 # 👋 Привет! Я Влад
 
@@ -17,7 +20,7 @@
 
 ### 🔗 Связаться со мной
 - 📧 Email: saburovv055@email.com
-- 💼 LinkedIn: [добавь ссылку]
+- 💼 LinkedIn: [добавь ссылку, если есть]
 - 🐦 Twitter/X: [@твой_ник]
 
 ### ⚡ Fun fact
@@ -26,6 +29,3 @@
 Спасибо, что заглянули! ⭐ Star мои репозитории, если понравилось!
 
 </div>
-
-<!-- Фоновое изображение как "второй слой" (твоя аниме-девушка под звёздами) -->
-<img src="https://tse4.mm.bing.net/th/id/OIP.AnSyfi5i9r-05JbmbXijkwHaNK?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Background" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; opacity: 0.6;">
