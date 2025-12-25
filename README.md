@@ -1,6 +1,7 @@
 # 👋 Привет! Я Влад
 
 ![Header Image](https://i.pinimg.com/originals/f2/0f/98/f20f98396c7472cd03fdccdcdd8b319f.gif)  
+<img src="https://i.pinimg.com/originals/f2/0f/98/f20f98396c7472cd03fdccdcdd8b319f.gif" alt="Описание" style="border-radius: 20px; width: 300px; height: auto;">
 
 🌟 **Студент колледжа IT Top / Начинающий разработчик / Энтузиаст IT**  
 📍 Из Симферополя
